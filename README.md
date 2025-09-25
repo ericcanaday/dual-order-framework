@@ -1,3 +1,5 @@
+The Dual-Order Framework: A Unified Scientific Model for Physical and Relational Resilience
+
 This repository contains the official scientific validation and supplemental materials for the Dual-Order Framework, a unified model designed to measure and understand both physical and relational resilience.
 
 The Dual-Order Framework distinguishes between two fundamental components:
